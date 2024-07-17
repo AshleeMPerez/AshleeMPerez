@@ -62,10 +62,10 @@ format:
   \end{multicols}
 \end{large}
 
-\begin{small}{\bf Languages} - R, RShiny, SAS/SPSS, STATA, SQL, Python\end{small}
+\begin{small}{\bf Languages} - R, RShiny, SAS/SPSS, STATA, SQL\end{small}
 
 
-\vspace{7pt}
+\vspace{5pt}
 
 <!-- PERSONAL PROJECTS : 1ST BULLET -->
 \begin{large}
@@ -78,7 +78,7 @@ format:
 * Automated import of 386 US Centers of Disease Control and Prevention (CDC) Community Profile Reports to calculate PCR-RT Positivity Rate for COVID-19, Daily counts for COVID-19 Positive Hospital Admissions, and Daily Hospital Utilization.
 
 
-\vspace{7pt}
+\vspace{5pt}
 \begin{large}
     \begin{flushleft}\bf{Association of Alcohol Consumption and Hours Worked in the United States (2017-2018)}\end{flushleft}
   \vspace{-0.17cm}
@@ -87,7 +87,7 @@ format:
 * Identified statistically significant associations, effectively communicated findings through clear and concise report, as well as oral presentation, highlighting key insights and implications for policy and intervention strategies.
 
 
-\vspace{7pt}
+\vspace{5pt}
 \begin{large}
     \begin{flushleft}\bf{Head \& Neck and Thoracic Cancer Risk Amongst National Pre-COVID-19 Pandemic Survey Participants}\end{flushleft}
   \vspace{-0.17cm}
@@ -97,7 +97,7 @@ format:
 * Built and optimized multiple regression models to predict cancer risk based on selected variables using SAS/SPSS.
 Assessed statistical significance and interpretation to improve future preventative and diagnostic strategies.
 
-\vspace{7pt}
+\vspace{5pt}
 
 <!-- EXPERIENCE : 1ST BULLET-->
 \begin{large}{\bf EXPERIENCE}
@@ -115,9 +115,12 @@ Assessed statistical significance and interpretation to improve future preventat
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* Design novel product solutions for to measure genome sequencing workflows and deployed interactive KPI dashboard through RShiny.
-* Collaborate with cross functional teams to integrate metrics of interest to optimize workflows.
-\vspace{7pt}
+* Collected and manipulated multiple genome sequencing data sets utilizing R/RStudio to develop summary files of pertinent dates, KPIs, and project details.
+* Designed novel product solutions to measure genome sequencing workflows and deployed interactive KPI dashboard and app through RShiny.
+* Collaborated with cross functional teams to integrate metrics of interest to optimize workflows.
+* Presented data pipeline, product solutions, and app/Dashboard demo to multiple teams, as well as future feature integrations.
+
+\vspace{5pt}
 
 <!-- EXPERIENCE : 2ND BULLET -->
 \begin{large}
@@ -137,7 +140,7 @@ Assessed statistical significance and interpretation to improve future preventat
 * **Hosted presentations on Fatal and Non-fatal Drownings, Risk factors, and Prevention strategies through a community outreach program - Foster Grandparents of Miami.**
 * Developed and provided detailed presentation on statistical findings on poison exposure within Miami-Dade County, as well as actionable insights for public health initiatives.
 
-\vspace{7pt}
+\vspace{5pt}
 
 <!-- EXPERIENCE : 3RD BULLET -->
 \begin{large}
