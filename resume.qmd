@@ -26,7 +26,7 @@ format:
 \begin{huge}\begin{center}{\bf ASHLEE MARIE PEREZ}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}apere574@fiu.edu ∙ \href{https://www.linkedin.com/in/ashlee-perez/}{LinkedIn} ∙ \href{https://github.com/AshleeMPerez}{Github}
+\begin{center}codebyashlee@gmail.com ∙ \href{https://www.linkedin.com/in/ashlee-perez/}{LinkedIn} ∙ \href{https://github.com/AshleeMPerez}{Github} ∙ \href{https://codebyashlee.shinyapps.io/shinyDash}{Portfolio}
 \end{center}
 \vspace{8pt}
 
@@ -46,6 +46,7 @@ format:
   \end{multicols}
 \end{large}
 
+
 \vspace{0.05cm}
 
 <!-- EDUCATION: 2ND BULLET -->
@@ -53,13 +54,16 @@ format:
   \begin{multicols}{2}
     \begin{flushleft}
       \hspace{1 mm} {\bf Florida International University}\\
-      \hspace{11 mm}Bachelor of Arts: Pre-Veterinary
+      \hspace{11 mm}Bachelor of Arts: Pre-Veterinary Curriculum
     \end{flushleft}
     \begin{flushright}
     Miami, Florida
     \end{flushright}
   \end{multicols}
 \end{large}
+
+\begin{small}{\bf Languages} - R, RShiny, SAS/SPSS, STATA, SQL, Python\end{small}
+
 
 \vspace{7pt}
 
@@ -68,27 +72,32 @@ format:
 {\bf SELECTED PROJECTS}
   \vspace{3pt}
   \hrule
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://www.google.com}{Project A}}\end{flushleft}
-    \begin{flushright}Month Year\end{flushright}
-  \end{multicols}
+    \begin{flushleft}\bf{Unveiling the Impact: The COVID-19 Pandemic and its Effect on Hospital Patient Census Across Four Florida Counties}\end{flushleft}
   \vspace{-0.17cm}
 \end{large}
-* Lorem Ipsum
+* Automated import of 386 US Centers of Disease Control and Prevention (CDC) Community Profile Reports to calculate PCR-RT Positivity Rate for COVID-19, Daily counts for COVID-19 Positive Hospital Admissions, and Daily Hospital Utilization.
+
 
 \vspace{7pt}
 \begin{large}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://www.google.com}{Project B}}\end{flushleft}
-    \begin{flushright}Month Year\end{flushright}
-  \end{multicols}
+    \begin{flushleft}\bf{Association of Alcohol Consumption and Hours Worked in the United States (2017-2018)}\end{flushleft}
+  \vspace{-0.17cm}
+\end{large}
+* Utilized regression analysis through RStudio to examine possible association between alcohol consumption and hours worked from NHANES data (2017-2018), controlling for relevant demographic factors.
+* Identified statistically significant associations, effectively communicated findings through clear and concise report, as well as oral presentation, highlighting key insights and implications for policy and intervention strategies.
+
+
+\vspace{7pt}
+\begin{large}
+    \begin{flushleft}\bf{Head \& Neck and Thoracic Cancer Risk Amongst National Pre-COVID-19 Pandemic Survey Participants}\end{flushleft}
   \vspace{-0.17cm}
 \end{large}
 
-* Lorem Ipsum
+* Conducted an in-depth analysis to identify factors influencing cancer risk using multiple regression techniques prior to the COVID-19 pandemic with a focus on tobacco product consumption from NHANES 2017-2018.
+* Built and optimized multiple regression models to predict cancer risk based on selected variables using SAS/SPSS.
+Assessed statistical significance and interpretation to improve future preventative and diagnostic strategies.
 
-\begin{small}{\bf Languages} - R, RShiny, SAS/SPSS, STATA, SQL, Python\end{small}
-
+\vspace{7pt}
 
 <!-- EXPERIENCE : 1ST BULLET-->
 \begin{large}{\bf EXPERIENCE}
@@ -146,24 +155,3 @@ format:
 * **Independently initiated and currently leading the development of a comprehensive data collection and analysis software to measure and optimize team performance metrics.**
 * Employ data visualization tools like Excel and R to present call metric trends and patterns, aiding in data interpretation.
 * Optimize data collection processes, resulting in improved efficiency and a more streamlined approach to gathering essential call metric information.
-
-
-\vspace{7pt}
-
-<!-- EXPERIENCE : 3RD BULLET -->
-\begin{large}
-  \begin{multicols}{2}
-    \begin{flushleft}
-      \bf \href{https://www.doralvet.com/}{Doral Centre Animal Hospital}\\
-      Client Service Representative
-    \end{flushleft}
-    \begin{flushright}
-    Nov 2022 - Apr 2023\\
-    \begin{small}Miami, Florida\end{small}
-    \end{flushright}
-  \end{multicols}
-\end{large}
-\vspace{-0.16cm}
-* Working alongside healthcare professionals to provide meaningful updates to clients regarding patient care, diagnostic reports, and coordinating continued care.
-* Aide in the betterment of management and workflow processes. Streamlining hospitalization protocol through increased employee and client feedback. 
-* Managed master calendar and scheduled appointments for five providers based on optimal patient loads and clinician availability.

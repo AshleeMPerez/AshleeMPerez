@@ -1,0 +1,4 @@
+- source: resume.qmd
+  quarto-pub:
+    - id: fdda6d06-27bf-4abc-ad3d-0f49573e41f1
+      url: 'https://ashlee.quarto.pub/resume'
