@@ -20,8 +20,8 @@
       - Deadlift: 275 lbs x 2 reps
 
 📇 Contact Information:
-    📧 E-mail: apere574@fiu.edu
-    🖇️ LinkedIn: https://www.linkedin.com/in/ashlee-perez/
+   - 📧 E-mail: codebyashlee@gmail.com
+   - 🖇️ LinkedIn: https://www.linkedin.com/in/ashlee-perez/
 
 <!---
 AshleeMPerez/AshleeMPerez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
