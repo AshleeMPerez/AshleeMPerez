@@ -62,7 +62,7 @@ format:
   \end{multicols}
 \end{large}
 
-\begin{small}{\bf Languages} - R, RShiny, SAS/SPSS, STATA, SQL\end{small}
+\begin{small}{\bf Languages and Tools} - R, RShiny, SAS/SPSS, STATA, SQL, Tableau, AWS, BigQuery\end{small}
 
 
 \vspace{5pt}
