@@ -28,7 +28,9 @@ format:
 <!-- CONTACT INFO -->
 \begin{center}codebyashlee@gmail.com ∙ \href{https://www.linkedin.com/in/ashlee-perez/}{LinkedIn} ∙ \href{https://github.com/AshleeMPerez}{Github} ∙ \href{https://codebyashlee.shinyapps.io/shinyDash}{Portfolio}
 \end{center}
-\vspace{8pt}
+\vspace{3pt}
+\begin{center}{\bf Languages and Tools} - R/RStudio, RShiny, tidymodels, SAS/SPSS, STATA, SQL, Python, Tableau, AWS, BigQuery\end{center}
+
 
 <!-- EDUCATION: 1ST BULLET -->
 \begin{large}
@@ -61,10 +63,6 @@ format:
     \end{flushright}
   \end{multicols}
 \end{large}
-
-\begin{small}{\bf Languages and Tools} - R, RShiny, SAS/SPSS, STATA, SQL, Tableau, AWS, BigQuery\end{small}
-
-
 \vspace{5pt}
 
 <!-- PERSONAL PROJECTS : 1ST BULLET -->
@@ -72,10 +70,11 @@ format:
 {\bf SELECTED PROJECTS}
   \vspace{3pt}
   \hrule
-    \begin{flushleft}\bf{Unveiling the Impact: The COVID-19 Pandemic and its Effect on Hospital Patient Census Across Four Florida Counties}\end{flushleft}
+    \begin{flushleft}\bf{Unveiling the Impact: The COVID-19 Pandemic and its Effect on Four Florida Counties}\end{flushleft}
   \vspace{-0.17cm}
 \end{large}
-* Automated import of 386 US Centers of Disease Control and Prevention (CDC) Community Profile Reports to calculate PCR-RT Positivity Rate for COVID-19, Daily counts for COVID-19 Positive Hospital Admissions, and Daily Hospital Utilization.
+* Automated import and processing of 386 CDC Community Profile Reports using  R/RStudio, *streamlining the calculation of COVID-19 outbreak metrics and improving reporting accuracy*. 
+* Collaborated with colleagues to refine data collection methods, identifying trends through visualizations, and recommendations for public health initiatives.
 
 
 \vspace{5pt}
@@ -83,8 +82,8 @@ format:
     \begin{flushleft}\bf{Association of Alcohol Consumption and Hours Worked in the United States (2017-2018)}\end{flushleft}
   \vspace{-0.17cm}
 \end{large}
-* Utilized regression analysis through RStudio to examine possible association between alcohol consumption and hours worked from NHANES data (2017-2018), controlling for relevant demographic factors.
-* Identified statistically significant associations, effectively communicated findings through clear and concise report, as well as oral presentation, highlighting key insights and implications for policy and intervention strategies.
+* Utilized *regression analysis and predictive modeling through R/RStudio* to examine possible association between alcohol consumption and hours worked from NHANES data (2017-2018), controlling for relevant demographic factors.
+* Identified statistically significant associations, effectively communicated findings through clear and concise report, as well as oral presentation, *highlighting key insights and implications for policy and intervention strategies.*
 
 
 \vspace{5pt}
@@ -92,9 +91,8 @@ format:
     \begin{flushleft}\bf{Head \& Neck and Thoracic Cancer Risk Amongst National Pre-COVID-19 Pandemic Survey Participants}\end{flushleft}
   \vspace{-0.17cm}
 \end{large}
-
 * Conducted an in-depth analysis to identify factors influencing cancer risk using multiple regression techniques prior to the COVID-19 pandemic with a focus on tobacco product consumption from NHANES 2017-2018.
-* Built and optimized multiple regression models to predict cancer risk based on selected variables using SAS/SPSS.
+* *Built and optimized multiple regression models to predict cancer risk based on selected variables using SAS/SPSS.*
 Assessed statistical significance and interpretation to improve future preventative and diagnostic strategies.
 
 \vspace{5pt}
@@ -115,10 +113,10 @@ Assessed statistical significance and interpretation to improve future preventat
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* Collected and manipulated multiple genome sequencing data sets utilizing R/RStudio to develop summary files of pertinent dates, KPIs, and project details.
-* Designed novel product solutions to measure genome sequencing workflows and deployed interactive KPI dashboard and app through RShiny.
-* Collaborated with cross functional teams to integrate metrics of interest to optimize workflows.
-* Presented data pipeline, product solutions, and app/Dashboard demo to multiple teams, as well as future feature integrations.
+* Collected and manipulated multiple genome sequencing data sets (over 900,000 rows) from BigQuery schemas, utilizing R/RStudio to develop summary files of pertinent dates, KPIs, and project details.
+* **Designed novel product solutions to measure genome sequencing workflows and deployed interactive KPI dashboards and applications through RShiny. Deployed product through AWS and Posit Connect, enhancing accessibility and data-driven metrics for multiple teams.**
+* Collaborated with cross functional teams, including lead researchers, laboratory technicians, and data scientists, to present data pipeline, product solutions, and application/dashboard demonstrations, as well as future feature integration.
+
 
 \vspace{5pt}
 
@@ -135,10 +133,9 @@ Assessed statistical significance and interpretation to improve future preventat
     \end{flushright}
   \end{multicols}
 \end{large}
-* Cleaned, manipulated, and managed large epidemiological data sets using statistical tools (e.g., R, SAS/SPSS, Excel) and created interactive visualizations to communicate public health trends and findings.
+* Cleaned, manipulated, and managed large epidemiological data sets (over 500,000 rows) using statistical tools (e.g., R, SAS/SPSS, Excel), created interactive visualizations, and hosted multiple presentations to report statistical findings on poison exposure within Miami-Dade County.
 * **Independently developed and applied statistical models to interpret health data and support decision-making processes for resource allocation.**
-* **Hosted presentations on Fatal and Non-fatal Drownings, Risk factors, and Prevention strategies through a community outreach program - Foster Grandparents of Miami.**
-* Developed and provided detailed presentation on statistical findings on poison exposure within Miami-Dade County, as well as actionable insights for public health initiatives.
+* Hosted presentations on Fatal and Non-fatal Drownings, Risk factors, and Prevention strategies through a community outreach program - Foster Grandparents of Miami.
 
 \vspace{5pt}
 
@@ -155,6 +152,5 @@ Assessed statistical significance and interpretation to improve future preventat
     \end{flushright}
   \end{multicols}
 \end{large}
-* **Independently initiated and currently leading the development of a comprehensive data collection and analysis software to measure and optimize team performance metrics.**
-* Employ data visualization tools like Excel and R to present call metric trends and patterns, aiding in data interpretation.
-* Optimize data collection processes, resulting in improved efficiency and a more streamlined approach to gathering essential call metric information.
+* **Independently initiated and managed comprehensive data collection and analysis of team performance metrics, identifying key areas for improvement and optimizing workflows to enhance efficiency.**
+* Utilized data visualization tools, such as Excel and R, to effectively present call metric trends and patterns, facilitating better data interpretation and informed decision-making.
